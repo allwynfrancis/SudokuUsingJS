@@ -1,0 +1,103 @@
+
+      html, body {
+        background-color: #FAFAFA
+      }
+
+      table {
+        border: 2px solid #000000;
+      }
+
+      td {
+        border: 1px solid #000000;
+        text-align: center;
+        vertical-align: middle;  
+      }
+
+      input {
+        color: #000000;
+        padding: 0;
+        border: 0;
+        text-align: center;
+        width: 48px;
+        height: 48px;
+        font-size: 24px;
+        background-color: #FFFFFF;
+        outline: none;
+      }
+
+      input:disabled {
+        background-color: #EEEEEE;
+      }
+      
+      #c4,#c5,#c9,#c7,#c10,#c11,#c14,#c17,#c19,#c20,#c25,#c24,#c29,#c31,
+      #c28,#c35,#c39,#c40,#c42,#c43,#c47,#c51,#c53,#c54,#c57,#c58,
+      #c63,#c62,#c65,#c68,#c71,
+      #c72,#c73,#c75,#c77,#c78{
+        background-color: rgb(211, 210, 210);
+        font-size: x-large;
+      }
+
+      #c1,
+      #c2,
+      #c3, 
+      #c3,
+      #c4,
+      #c5, 
+      #c9,
+      #c6, 
+      #c7,
+      #c8,
+      #c30,
+      #c31,
+      #c32,
+      #c28,#c29,
+      #c33, #c34, #c35 ,
+      #c63, #c55, #c56,
+      #c57, #c58, #c59 ,
+      #c60, #c61, #c62,#c36 { border-top:    2px solid #000000; }
+
+
+      #c3,  #c12, #c21,#c6,  #c15, #c24 ,#c9,  #c18, #c27,
+     #c36, #c45, #c54,
+    #c30, #c39, #c48,#c33,#c81, #c42, #c51, #c57, #c66, #c63, #c72 , #c75, #c60, #c69, #c78{ border-right:  2px solid #000000; }
+     
+     
+     
+     #c19, #c20,#c27 { border-bottom: 2px solid #000000; }
+      #c1,#c10,#c19,#c28,#c37,#c46,#c55,#c64,#c73{ border-left:   2px solid #000000; }
+
+     
+      
+      #c21, #c22, #c23 { border-bottom: 2px solid #000000; }
+     
+       
+     
+      #c24, #c25, #c26 { border-bottom: 2px solid #000000; }
+     
+
+     
+       
+      #c54, #c46, #c47 { border-bottom: 2px solid #000000; }
+    
+
+      
+     
+      #c48, #c49, #c50 { border-bottom: 2px solid #000000; }
+      
+
+     
+      #c51, #c52, #c53 { border-bottom: 2px solid #000000; }
+     
+
+      
+      #c81, #c73, #c74 { border-bottom: 2px solid #000000; }
+    
+
+     
+      #c75, #c76, #c77 { border-bottom: 2px solid #000000; }
+      
+
+       
+      #c78, #c79, #c80 { border-bottom: 2px solid #000000; }
+     
+
